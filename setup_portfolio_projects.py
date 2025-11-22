@@ -20,7 +20,27 @@ from textwrap import dedent
 
 BASE_DIR = Path(__file__).resolve().parent
 
-PROJECTS = {
+PROJECTS = { "biomedical-research-using-data-science": {
+        "folders": [
+            "data/raw",
+            "data/processed",
+            "nih_data",
+            "analysis",
+            "notebooks",
+            "tableau",
+            "utils",
+        ],
+        "requirements": [
+            "pandas",
+            "numpy",
+            "matplotlib",
+            "seaborn",
+            "scikit-learn",
+            "jupyter",
+            "python-dotenv"
+        ],
+        "description": "Biomedical research pipeline using NIH RePORTER/ExPORTER data and data science methods.",
+    },
     "global-infectious-disease-surveillance": {
         "folders": [
             "data/raw",
