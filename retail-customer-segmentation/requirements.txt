@@ -1,0 +1,9 @@
+jupyter
+matplotlib
+numpy
+pandas
+python-dotenv
+scikit-learn
+seaborn
+textblob
+umap-learn

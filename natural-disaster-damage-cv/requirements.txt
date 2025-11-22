@@ -1,0 +1,13 @@
+albumentations
+geopandas
+jupyter
+matplotlib
+numpy
+opencv-python
+pandas
+python-dotenv
+rasterio
+seaborn
+shapely
+torch
+torchvision

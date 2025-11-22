@@ -1,0 +1,13 @@
+geopandas
+jupyter
+keybert
+matplotlib
+nltk
+numpy
+pandas
+prophet
+pycountry
+python-dotenv
+requests
+scikit-learn
+seaborn

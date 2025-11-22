@@ -1,0 +1,17 @@
+beautifulsoup4
+bertopic
+datasets
+hdbscan
+jupyter
+lxml
+matplotlib
+numpy
+pandas
+python-dotenv
+requests
+scikit-learn
+seaborn
+sentencepiece
+torch
+transformers
+umap-learn

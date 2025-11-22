@@ -1,0 +1,13 @@
+datasets
+hdbscan
+jupyter
+matplotlib
+nltk
+numpy
+pandas
+python-dotenv
+scikit-learn
+seaborn
+torch
+transformers
+umap-learn

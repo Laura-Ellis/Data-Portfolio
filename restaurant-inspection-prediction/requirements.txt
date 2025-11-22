@@ -1,0 +1,12 @@
+beautifulsoup4
+geopandas
+jupyter
+lxml
+matplotlib
+numpy
+pandas
+python-dotenv
+requests
+scikit-learn
+seaborn
+shapely

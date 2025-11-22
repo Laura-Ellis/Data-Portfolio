@@ -1,0 +1,12 @@
+arch
+jupyter
+matplotlib
+numpy
+pandas
+python-dotenv
+requests
+scikit-learn
+seaborn
+statsmodels
+textblob
+torch

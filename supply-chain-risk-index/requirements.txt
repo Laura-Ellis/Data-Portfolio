@@ -1,0 +1,11 @@
+jupyter
+matplotlib
+networkx
+numpy
+pandas
+python-dotenv
+requests
+scikit-learn
+seaborn
+spacy
+textblob
